@@ -1,0 +1,1 @@
+web: gunicorn videocall.wsgi --log-file -
